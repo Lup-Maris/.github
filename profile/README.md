@@ -89,6 +89,10 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Acknowledgments
+
+* [Logo](https://www.vecteezy.com/vector-art/14001529-wolf-serigala-wallpaper-vector-image)
+<a href="https://www.vecteezy.com/free-vector/wolf">Wolf Vectors by Vecteezy</a>
 
 <!-- CONTRIBUTING -->
 ## Contributing
