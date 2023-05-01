@@ -5,14 +5,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/Lup-Maris/.github">
-    <img src="images/vecteezy_wolf-serigala-wallpaper-vector-image_14001529.jpg" alt="Logo" width="80" height="80">
+    <img src="images/vecteezy_wolf-serigala-wallpaper-vector-image_14001529.jpg" alt="Logo" width="256" height="256">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Welcome</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -21,27 +19,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -85,7 +62,7 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!--
 
