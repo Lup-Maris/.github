@@ -4,8 +4,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Lup-Maris/.github/blob/96ae14a1b46981c1b40233a34d0f2ddf91e31a67/profile/images/vecteezy_wolf-serigala-wallpaper-vector-image_14001529.jpg">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Lup-Maris/.github">
+    <img src="images/vecteezy_wolf-serigala-wallpaper-vector-image_14001529.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
